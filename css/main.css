@@ -229,7 +229,7 @@ img {
   font-family: 'Satisfy', cursive; }
 
 #header-home {
-  background: url("/dist/img/showcase.jpg") no-repeat center center/cover;
+  background: url("/img/showcase.jpg") no-repeat center center/cover;
   height: 100vh;
   color: #fff; }
   #header-home .header-content {
@@ -240,7 +240,7 @@ img {
       line-height: 1.2; }
 
 #header-inner {
-  background: url("/dist/img/showcase.jpg") no-repeat 20% 30%/cover;
+  background: url("/img/showcase.jpg") no-repeat 20% 30%/cover;
   height: 5.5rem;
   border-bottom: 3px solid #ffbc00; }
 
